@@ -284,5 +284,4 @@ streamlit run app.py
 
 ---
 
-*This project is the capstone (Days 11–15) of a 15-day Data Science
-& AI project series completed in preparation for M.Tech research.*
+*This is an independent capstone project developed as part of Data Science and AI learning journey. I used AI-assisted tools for learning, ideation, and debugging while implementing, understanding, and documenting the complete pipeline myself.*
